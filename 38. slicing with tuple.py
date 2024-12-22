@@ -1,0 +1,6 @@
+a=('n','i','r','a','n','j','a','n')
+print(a[0:5:1])
+print(a[0::-1])
+print(a[2:6:2])
+print(a[-7:6:1])
+print(a[:6:2])
